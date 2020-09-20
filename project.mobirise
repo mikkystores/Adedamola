@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Adedamola's Class",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -58,7 +58,7 @@
     "publishChangesOnly": false
   },
   "pages": {
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
